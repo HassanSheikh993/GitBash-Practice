@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is number4 
 first change
 =======
 this is number4
 first change
 second change in fix branch
+>>>>>>> fix
+=======
+this is number4
+first change
+second change in fix branch
+new change
 >>>>>>> fix
